@@ -4,7 +4,7 @@
 
 <!-- GitHub section -->
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FelipeASousa&show_icons=true&theme=tokyonight&hide=issuesr" width = 385 />
+  <img src = "https://github-readme-stats.vercel.app/api?username=FelipeASousa&show_icons=true&theme=tokyonight&hide=issuesr" width = 400 />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeASousa&theme=tokyonight" width = 200 />
 </p>
 
