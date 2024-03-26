@@ -1,6 +1,6 @@
 # Felipe Augusto
 
-## I am 21 yeard old, from São José dos Campos. I'm working with data analysis, ETL, Business Intelligence and Proccess Automation
+### I am 21 yeard old, from São José dos Campos. I'm working with data analysis, ETL, Business Intelligence and Proccess Automation
 
 <!-- GitHub section -->
 <p align="center">
