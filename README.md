@@ -11,9 +11,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeASousa&langs_count=4&layout=compact&theme=onedark&hide=jupyter%20notebook,html,ejs" width = 400 />
 </p>
 
-<!-- GitHub tropheus section -->
-
-<samp>
-  <h3>🎶 Troféus do GitHub</h3>
-</samp>
 
