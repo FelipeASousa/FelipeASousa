@@ -17,6 +17,3 @@
   <h3>🎶 Troféus do GitHub</h3>
 </samp>
 
-<p align="center">
-  <img src = "https://github-profile-trophy.vercel.app/?username=FelipeASousa&theme=onedark" width = 100% />
-</p>
